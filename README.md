@@ -1,5 +1,5 @@
 # Hi, thie is kenger
-[bilibili.com]([https://wolfbolin.com](https://space.bilibili.com/343042358))
+[bilibili.com](https://space.bilibili.com/343042358)
 ![Python](https://img.shields.io/badge/Python-3.7-blue.svg)
 
 - 喜欢没事写写脚本
