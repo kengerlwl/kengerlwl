@@ -1,4 +1,4 @@
-# Hi, thie is kenger
+# Hi, this is kenger
 
 ![Python](https://img.shields.io/badge/Python-3.7-blue.svg)
 
