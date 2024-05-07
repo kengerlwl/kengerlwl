@@ -27,8 +27,8 @@ jobs:
           export USERNAME=kengerlwl
           echo $USERNAME
           echo "after username"
-          echo -n "${{ secrets.TESTKEY }}" | xxd -ps
-          
+          echo -n "${{ secrets.GH_TOKEN }}" | xxd -ps
+
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
