@@ -21,10 +21,10 @@
 
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/kengerlwl/kengerlwl/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/kengerlwl/kengerlwl/profile-3d-contrib/profile-gitblock.svg" />
   <img src="https://cdn.jsdelivr.net/gh/kengerlwl/kengerlwl/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
+</picture> -->
 
-  <img src="https://cdn.jsdelivr.net/gh/kengerlwl/kengerlwl/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/kengerlwl/kengerlwl/profile-3d-contrib/profile-season-animate.svg" />
