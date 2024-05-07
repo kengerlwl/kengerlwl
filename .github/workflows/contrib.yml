@@ -22,6 +22,7 @@ jobs:
       - name: Commit & Push
         run: |
           echo "start kenger push"
+          echo $USERNAME
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
