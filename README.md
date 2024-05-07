@@ -12,3 +12,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=kengerlwl)
 
 
+<!--
+
+[Readme Typing SVG - Demo Site](https://readme-typing-svg.demolab.com/demo/)
+
+[Github Profile Header Generator](https://leviarista.github.io/github-profile-header-generator/)
+--!>
