@@ -18,7 +18,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: kengerlwlwlwlwl
       - name: Commit & Push
         run: |
           echo "start kenger push"
