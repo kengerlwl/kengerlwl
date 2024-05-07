@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=50&pause=1000&color=F7F7F7&background=0B00FF&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+this+is+kenger" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1000&color=F7F7F7&background=0B00FF&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+this+is+kenger" alt="Typing SVG" /></a>
 
 ### 🤺 About Me
 
