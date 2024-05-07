@@ -21,14 +21,6 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          echo "start kenger push"
-          echo $USERNAME
-          echo "set by myself"
-          export USERNAME=kengerlwl
-          echo $USERNAME
-          echo "after username"
-          echo -n "${{ secrets.GH_TOKEN }}" | xxd -ps
-
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
