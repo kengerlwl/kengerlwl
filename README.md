@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=50&pause=1000&color=F7F7F7&background=0B00FF&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+this+is+kenger)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=50&pause=1000&color=F7F7F7&background=0B00FF&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+this+is+kenger" alt="Typing SVG" /></a>
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.7-blue.svg)
 
