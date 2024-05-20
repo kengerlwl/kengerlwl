@@ -2,12 +2,12 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://blog.kenger.work/images/avatar.png" />
+<img align="right" width="88" src="https://kengerlwl.github.io/images/avatar.png" />
 
 <p>&emsp;&emsp;这里是行者的个人Github主页</p>
 <p>&emsp;&emsp;计算机行业微不足道的萌新一枚</p>
 <p>&emsp;&emsp;喜欢没事写写脚本</p>
-<p>&emsp;&emsp;个人博客：<a href="https://blog.kenger.work/">链接url</a></p>
+<p>&emsp;&emsp;个人博客：<a href="https://kengerlwl.github.io/">链接url</a></p>
 <p>&emsp;&emsp;业余剪辑侠：<a href="https://space.bilibili.com/343042358">个人b站主页</a></p>
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
